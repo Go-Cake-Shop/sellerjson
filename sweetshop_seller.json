@@ -1,0 +1,20 @@
+{
+    "contact_email": "adops@gocake.shop",
+    "contact_address": "Sweetshop AI Pty Ltd, Sydney, NSW, Australia",
+    "version": "1.0",
+    "identifiers": [],
+    "sellers": [
+        {
+            "seller_id": "JAC MEDIA 001",
+            "name": "JAC Media",
+            "domain": "jacmedia.com.au",
+            "seller_type": "PUBLISHER",
+        },
+        {
+            "seller_id": "SWEETSHOP_CURATED",
+            "name": "Sweetshop AI Pty Ltd",
+            "domain": "sweetshopai.com",
+            "seller_type": "BOTH",
+        }
+    ]
+}
